@@ -1,3 +1,4 @@
 - dynamic arrays
 - hash usage & hash implementation
 - prefix sums
+- prime number encoding with multiplication creat unique combination

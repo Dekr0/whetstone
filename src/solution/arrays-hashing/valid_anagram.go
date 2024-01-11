@@ -37,8 +37,8 @@ func IsAnagramAlt1(s string, t string) bool {
     a := 0; b := 0
 
     for i := 0; i < len(s); i++ {
-        a += prime_encoding[s[i] - 'a']
-        b += prime_encoding[t[i] - 'a']
+        a *= prime_encoding[s[i] - 'a']
+        b *= prime_encoding[t[i] - 'a']
     }
 
     return a == b
