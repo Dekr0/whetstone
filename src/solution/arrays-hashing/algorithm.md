@@ -1,0 +1,3 @@
+- dynamic arrays
+- hash usage & hash implementation
+- prefix sums

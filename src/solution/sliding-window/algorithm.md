@@ -1,0 +1,2 @@
+- sliding window fixed
+- sliding window variable size

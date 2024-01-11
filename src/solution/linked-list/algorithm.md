@@ -1,0 +1,3 @@
+- singly linked lists
+- doubly linked lists
+- fast and slow pointers
