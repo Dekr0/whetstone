@@ -6,7 +6,7 @@
         - multiplication and then mod a magic number if having 
         a "sequential" prime number
         - addition with a selective prime number (magic ?)
-- boyer-moore majority vote algorithm
+- Boyer-moore majority vote algorithm
 - monotonic stack
 - memory saving strategy
     - usually comes in the form of using variables as state
@@ -15,8 +15,8 @@
 - bounded memory usage
     - sometime memory is not necessary equal to the size of the input due to 
     specific constraint, e.g.
-        - monotic stack and next greater element
+        - monotonic stack and next greater element
 - bounded inner loop
     - sometime inner loop not necessary be O(N), e.g.
-        - 26 english letter
-        - monotic stack and next greater element
+        - 26 English letter
+        - monotonic stack and next greater element

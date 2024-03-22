@@ -1,0 +1,10 @@
+i - 0, j - 0
+profit: -6, i - 0, j - 1
+
+i - 1, j - 1
+profit: 4, i - 1, j - 2
+profit: 2, i - 1, j - 3
+profit: 5, i - 1, j - 4
+profit: 3, i - 1, j - 5
+
+5
